@@ -1,0 +1,2 @@
+Para a próxima aula:
+implementar wKNN, ou seja, knn com um peso atribuído ao K mais próximo
